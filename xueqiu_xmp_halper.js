@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Xueqiu Xmp Helper
-// @namespace   https://github.com/yangzhenze/userjs/xueqiu_xmp_helper
+// @namespace   https://github.com/Distringer/monkeyjs/blob/main/xueqiu_xmp_halper.js
 // @description 将雪球上的 xmp url 转化为可操作组件
 // @author      yangzhenze
 // @version     20220704.1
